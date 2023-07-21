@@ -24,6 +24,7 @@ Email:<a style="margin: 7px; " class="u-email" href="mailto:{{ site.email }}">{{
 *Luis Müller, Michael Galkin, Christopher Morris, Ladislav Rampasek*    
 We propose a taxonomy of graph transformers, overview their theoretical properties and investigate experimentally how well graph transformers can recover graph structure and mitigate issues with over-smoothing and over-squashing.    
 <i class="ai ai-arxiv ai-1x"></i> [Preprint](https://arxiv.org/abs/2302.04181)
+<a style="margin-left: 5px" href="https://youtu.be/BuNXQIzLBWc"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Talk</a>
 
 <h2 class="post-list-heading">{{ page.list_title | default: "Publications" }}</h2>
 
