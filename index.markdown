@@ -24,7 +24,7 @@ Email:<a style="margin: 7px; " class="u-email" href="mailto:{{ site.email }}">{{
 *Luis Müller, Daniel Kusuma, Christopher Morris*    
 We show that the Edge Transformer, a model originally proposed for improved systematic generalization over standard transformers, has provable 3-WL expressivity. We then demonstrate through a range of experiments on expressivity, molecular prediction and neural algorithmic reasoning benchmarks that the Edge Transformer matches or improves over SOTA graph learning models in terms of predictive performance.    
 <i class="ai ai-arxiv ai-1x"></i> [Preprint](https://arxiv.org/abs/2401.10119)
-<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> [Code](https://github.com/luis-mueller/towards-principled-gts)
+[Code](https://github.com/luis-mueller/towards-principled-gts)
 
 <h2 class="post-list-heading">{{ page.list_title | default: "Publications" }}</h2>
 
