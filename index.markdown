@@ -20,15 +20,19 @@ Email:<a style="margin: 7px; " class="u-email" href="mailto:{{ site.email }}">{{
 
 <h2 class="post-list-heading">{{ page.list_title | default: "Preprints" }}</h2>
 
-**Attending to Graph Transformers**
-*Luis Müller, Michael Galkin, Christopher Morris, Ladislav Rampasek*    
-We propose a taxonomy of graph transformers, overview their theoretical properties and investigate experimentally how well graph transformers can recover graph structure and mitigate issues with over-smoothing and over-squashing.    
-<i class="ai ai-arxiv ai-1x"></i> [Preprint](https://arxiv.org/abs/2302.04181)
-<a style="margin-left: 5px" href="https://youtu.be/BuNXQIzLBWc"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Talk</a>
+**Towards Principled Graph Transformers**
+*Luis Müller, Daniel Kusuma, Christopher Morris*    
+We show that the Edge Transformer, a model originally proposed for improved systematic generalization over standard transformers, has provable 3-WL expressivity. We then demonstrate through a range of experiments on expressivity, molecular prediction and neural algorithmic reasoning benchmarks that the Edge Transformer matches or improves over SOTA graph learning models in terms of predictive performance.    
+<i class="ai ai-arxiv ai-1x"></i> [Preprint](https://arxiv.org/abs/2401.10119)
+<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> [Code](https://github.com/luis-mueller/towards-principled-gts)
 
 <h2 class="post-list-heading">{{ page.list_title | default: "Publications" }}</h2>
 
-
+**Attending to Graph Transformers**
+*Luis Müller, Michael Galkin, Christopher Morris, Ladislav Rampasek*    
+We propose a taxonomy of graph transformers, overview their theoretical properties and investigate experimentally how well graph transformers can recover graph structure and mitigate issues with over-smoothing and over-squashing. *Accepted at TMLR.*   
+<i class="ai ai-arxiv ai-1x"></i> [Arxiv](https://arxiv.org/abs/2302.04181)
+<a style="margin-left: 5px" href="https://youtu.be/BuNXQIzLBWc"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Talk</a>
 
 **Representation Change in Model-Agnostic Meta-Learning**
 *Thomas Goerttler, Luis Müller*    
