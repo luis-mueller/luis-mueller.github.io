@@ -20,7 +20,7 @@ Email:<a style="margin: 7px; " class="u-email" href="mailto:{{ site.email }}">{{
 
 <h2 class="post-list-heading">{{ page.list_title | default: "Preprints" }}</h2>
 
-**Towards Principled Graph Transformers**
+**Towards Principled Graph Transformers**    
 ***Luis Müller**, Daniel Kusuma, Christopher Morris*    
 We show that the Edge Transformer, a model originally proposed for improved systematic generalization over standard transformers, has provable 3-WL expressivity. We then demonstrate through a range of experiments on expressivity, molecular prediction and neural algorithmic reasoning benchmarks that the Edge Transformer matches or improves over SOTA graph learning models in terms of predictive performance.    
 <i class="ai ai-arxiv ai-1x"></i> [Preprint](https://arxiv.org/abs/2401.10119)
@@ -28,28 +28,28 @@ We show that the Edge Transformer, a model originally proposed for improved syst
 
 <h2 class="post-list-heading">{{ page.list_title | default: "Publications" }}</h2>
 
-**Attending to Graph Transformers**
+**Attending to Graph Transformers**      
 ***Luis Müller**, Michael Galkin, Christopher Morris, Ladislav Rampasek*    
 We propose a taxonomy of graph transformers, overview their theoretical properties and investigate experimentally how well graph transformers can recover graph structure and mitigate issues with over-smoothing and over-squashing. *Accepted at TMLR.*   
 <i class="ai ai-arxiv ai-1x"></i> [Arxiv](https://arxiv.org/abs/2302.04181)
 <a style="margin-left: 5px" href="https://youtu.be/BuNXQIzLBWc"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Talk</a>
 
-**Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets**  
+**Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets**    
 *Dominique Beaini, Shenyang Huang, Joao Alex Cunha, Zhiyi Li, Gabriela Moisescu-Pareja, Oleksandr Dymov, Samuel Maddrell-Mander, Callum McLean, Frederik Wenkel, **Luis Müller**, Jama Hussein Mohamud, Ali Parviz, Michael Craig, Michał Koziarski, Jiarui Lu, Zhaocheng Zhu, Cristian Gabellini, Kerstin Klaser, Josef Dean, Cas Wognum, Maciej Sypetkowski, Guillaume Rabusseau, Reihaneh Rabbany, Jian Tang, Christopher Morris, Ioannis Koutis, Mirco Ravanelli, Guy Wolf, Prudencio Tossou, Hadrien Mary, Therence Bois, Andrew Fitzgibbon, Błażej Banaszewski, Chad Martin, Dominic Masters*  
 We release a large-scale dataset for supervised multi-level multi-task molecular pre-training with more than 13 billion prediction targets, accompanied by [Graphium](https://github.com/datamol-io/graphium) a new library for training and fine-tuning GNNs at scale on both GPUs and IPUs. *Accepted at ICLR 2024.*  
 <i class="ai ai-arxiv ai-1x"></i> [Arxiv](https://arxiv.org/abs/2310.04292)
 
-**Representation Change in Model-Agnostic Meta-Learning**
+**Representation Change in Model-Agnostic Meta-Learning**  
 *Thomas Goerttler, **Luis Müller***    
 Blog post, published at [ICLR 2022 Blog Track](https://iclr-blog-track.github.io/).   
 [Website](https://iclr-blog-track.github.io/2022/03/25/representation-change-in-model-agnostic-meta-learning/)
 
-**An Interactive Introduction to Model-Agnostic Meta-Learning**
+**An Interactive Introduction to Model-Agnostic Meta-Learning**  
 ***Luis Müller**, Max Ploner, Thomas Goerttler, Klaus Obermayer*    
 Interactive explainer, published at [VISxAI 2021](https://visxai.io/2021.html).  
 [Website](https://interactive-maml.github.io/) [Code](https://github.com/luis-mueller/maml-tf2)
 
-**Reachable Assignments on Cycles**
+**Reachable Assignments on Cycles**  
 ***Luis Müller**, Matthias Bentert*    
 Paper, published at ADT 2021 in Toulouse.  
 <i class="ai ai-arxiv ai-1x"></i> [Arxiv](https://arxiv.org/abs/2005.02218)
