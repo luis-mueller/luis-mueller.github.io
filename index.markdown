@@ -13,10 +13,10 @@ I'm interested in studying the capabilities and limitations of general-purpose m
 
 Email: luis.mueller [at] cs [dot] rwth-aachen [dot] de
 
-<a style="margin: 7px; " href="https://scholar.google.com/citations?user=iPxfRnEAAAAJ&hl=en"><span class="username">Google Scholar</span></a>
-<a style="margin: 7px; " href="https://x.com/luis_pupuis"><span class="username">X</span></a>
-<a style="margin: 7px" href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">GitHub</span></a>
-<a style="margin: 7px" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><span class="username">LinkedIn</span></a>
+<a style="margin: 7px; " href="https://scholar.google.com/citations?user=iPxfRnEAAAAJ&hl=en">Google Scholar</a>
+<a style="margin: 7px; " href="https://x.com/luis_pupuis">X</a>
+<a style="margin: 7px" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">GitHub</a>
+<a style="margin: 7px" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">LinkedIn</a>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
