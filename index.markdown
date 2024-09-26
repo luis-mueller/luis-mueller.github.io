@@ -13,10 +13,10 @@ I'm interested in studying the capabilities and limitations of general-purpose m
 
 Email: luis.mueller [at] cs [dot] rwth-aachen [dot] de
 
-<a style="margin: 2px; " href="https://scholar.google.com/citations?user=iPxfRnEAAAAJ&hl=en">Google Scholar</a>
-<a style="margin: 2px; " href="https://x.com/luis_pupuis">X</a>
-<a style="margin: 2px" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">GitHub</a>
-<a style="margin: 2px" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">LinkedIn</a>
+<a style="margin: 1px; " href="https://scholar.google.com/citations?user=iPxfRnEAAAAJ&hl=en">Google Scholar</a>
+<a style="margin: 1px; " href="https://x.com/luis_pupuis">X</a>
+<a style="margin: 1px" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">GitHub</a>
+<a style="margin: 1px" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">LinkedIn</a>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
@@ -39,7 +39,7 @@ Email: luis.mueller [at] cs [dot] rwth-aachen [dot] de
 *Accepted at TMLR.*    
 [Paper](https://arxiv.org/abs/2302.04181)
 [Code](https://github.com/luis-mueller/probing-graph-transformers)
-<a style="margin-left: 5px" href="https://youtu.be/BuNXQIzLBWc"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Talk</a>
+[Talk](https://youtu.be/BuNXQIzLBWc)
 
 **MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning**    
 *Kerstin Klaser, Blazej Banaszewski, Samuel Maddrell-Mander, Callum McLean, **Luis Müller**, Ali Parviz, Shenyang Huang, Andrew William Fitzgibbon*    
