@@ -7,7 +7,7 @@ layout: home
 
 <img style="border: 1px solid black; border-radius: 50%; width: 30%" align="right" src="images/me.png"/>
 
-I'm Luis, a second year PhD student at RWTH Aachen University under the supervision of [Christopher Morris](https://chrsmrrs.github.io/).
+I'm Luis, a third year PhD student at RWTH Aachen University under the supervision of [Christopher Morris](https://chrsmrrs.github.io/).
 
 I'm interested in studying the capabilities and limitations of general-purpose machine learning architectures in the context of graph learning. My current research focus is on deriving a principled understanding of graph transformers and their potential benefits over GNNs.
 
